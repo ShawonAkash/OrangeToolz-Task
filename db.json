@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "Fed 5th at 2:30pm",
+      "duration": "60",
+      "type": "email",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Meeting at office",
+      "day": "Fed 6th at 2:30pm",
+      "duration": "80",
+      "type": "call",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Food Delivery",
+      "day": "Fed 8th at 2:30pm",
+      "duration": "30",
+      "type": "call",
+      "reminder": true
+    },
+    {
+      "text": "Go to bed",
+      "day": "2022-02-19T23:00",
+      "duration": "800",
+      "type": "Alarm",
+      "reminder": false,
+      "id": 6
+    },
+    {
+      "text": "Drink Water",
+      "day": "2022-06-23T12:03",
+      "duration": "23:03",
+      "type": "call",
+      "reminder": true,
+      "id": 7
+    }
+  ]
+}
